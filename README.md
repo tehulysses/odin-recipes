@@ -1,4 +1,4 @@
-# odin-recipes
+# recipes
 This project will showcase a basic understanding of HTML elements demonstrated in a Recipe website with links to different recipes.
 
 HTML:
