@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+h1, h2 {
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+ul li, ol li {
+    padding: 5px 10%;
+    list-style-position: inside;
+}
+p {
+    display: block;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+ul.nav {
+    list-style-type: none;
+}
+
+li.nav_item {
+    display: inline;
+    padding: 20px 40px 4px 10px;
+}
+
+#nav {
+    margin: auto;
+    margin-top: 16px;
+}
+
+#jump, #return_top {
+    display: block;
+    margin: auto;
+}
